@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github link)
+- Solution URL: [https://github.com/MaryAngelique/progress-steps)
 - Live Site URL: [vercel link)
 
 ## My process

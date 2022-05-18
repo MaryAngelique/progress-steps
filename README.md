@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MaryAngelique/progress-steps)
-- Live Site URL: [vercel link)
+- Solution URL: https://github.com/MaryAngelique/progress-steps
+- Live Site URL: https://progress-steps-neon.vercel.app/
 
 ## My process
 

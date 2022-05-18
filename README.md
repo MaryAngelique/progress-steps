@@ -21,7 +21,7 @@ Users should be able to:
 #### - See the progress bar animation
 
 ### Features
-[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
+[![FEATURES](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](https://www.loom.com/share/d58f210c7c6c46d697ceafab32bfce6b)
 
 
 ### Project Demo
